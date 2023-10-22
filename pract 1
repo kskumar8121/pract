@@ -1,0 +1,3 @@
+The data present LR should be sent in to the remote repository we can do this by creating an account with git hub.
+Note: when we add a new file in to working directory which is in untracked stage.
+When we modified the existing file in staging area, Local repository which is come in tracked stage only.
